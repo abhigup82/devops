@@ -3,7 +3,7 @@
 
   <groupId>com.sonatype.blog</groupId>
   <artifactId>git-demo</artifactId>
-  <version>1.2-SNAPSHOT</version>
+  <version>1.2</version>
   <packaging>jar</packaging>
 
   <name>git-demo</name>
@@ -17,7 +17,7 @@
 	<connection>scm:git:git@github.com:abhigup82/devops.git</connection>
         <url>scm:git:git@github.com:abhigup82/devops.git</url>
 	<developerConnection>scm:git:git@github.com:abhigup82/devops.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>git-demo-1.2</tag>
   </scm>
   <distributionManagement>
     <repository>
