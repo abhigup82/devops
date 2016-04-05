@@ -22,7 +22,7 @@
   <distributionManagement>
     <repository>
         <id>artifact-repository</id>
-        <url>http://localhost:8081/nexus</url>
+        <url>http://localhost:8081/nexus/content/repositories/releases</url>
     </repository>
   </distributionManagement>
   <build>
