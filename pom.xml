@@ -14,8 +14,6 @@
   </properties>
 
   <scm>
-	<connection>scm:git:git@github.com:abhigup82/devops.git</connection>
-	<url>scm:git:git@github.com:abhigup82/devops.git</url>
 	<developerConnection>scm:git:git@github.com:abhigup82/devops.git</developerConnection>
   </scm>
   <distributionManagement>
